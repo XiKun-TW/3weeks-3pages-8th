@@ -1,0 +1,13 @@
+{
+  "name": "3weeks-3pages-8th",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/XiKun-TW/3weeks-3pages-8th.git",
+  "author": "Gougougogogo <394442302@qq.com>",
+  "license": "MIT",
+  "scripts": {
+    "week1": "parcel week1.html -p 8001",
+    "week2": "parcel week2.html -p 8002",
+    "week3": "parcel week3.html -p 8003"
+  }
+}
